@@ -5,3 +5,5 @@ Welcome to Messanger app
 Easy way to communication 
 
 Performance is too fast
+
+Improve Reliabilty.
